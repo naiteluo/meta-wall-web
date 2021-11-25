@@ -13,8 +13,10 @@ class Application {
     }
 
     run() {
-        console.log('hello typescript');
+        console.log('hello typescript1');
+
     }
+
 
 }
 
