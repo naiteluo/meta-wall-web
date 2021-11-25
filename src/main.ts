@@ -1,6 +1,6 @@
-import { Application } from "./application";
+import { Application } from './application'
 
-const app = new Application();
+const app = new Application()
 
-app.initialize();
-app.run();
+app.initialize()
+app.run()
