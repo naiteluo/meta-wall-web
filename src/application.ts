@@ -1,23 +1,13 @@
-
 class Application {
-    constructor() {
+  constructor() {}
 
-    }
+  initialize() {}
 
-    initialize() {
+  finalize() {}
 
-    }
-
-    finalize() {
-
-    }
-
-    run() {
-        console.log('hello typescript1');
-        console.log('hello typescript1');
-    }
-
-
+  run() {
+    console.log('hello typescript')
+  }
 }
 
 export { Application }
