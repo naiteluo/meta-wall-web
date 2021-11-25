@@ -14,7 +14,7 @@ class Application {
 
     run() {
         console.log('hello typescript1');
-
+        console.log('hello typescript1');
     }
 
 
