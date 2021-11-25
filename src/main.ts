@@ -2,5 +2,5 @@ import { Application } from './application'
 
 const app = new Application()
 
-app.initialize()
+app.initialize();
 app.run()
